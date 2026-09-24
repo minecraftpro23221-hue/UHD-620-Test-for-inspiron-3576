@@ -313,17 +313,23 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAbWQ==</data>
+				<data>AADIAA==</data>
 				<key>device-id</key>
 				<data>F1kAAA==</data>
-				<key>compatible</key>
-				<string>pci8086,5917</string>
 				<key>framebuffer-fbmem</key>
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
+				<key>framebuffer-con0-type</key>
+				<data>AgAAAA==</data>
+				<key>framebuffer-con0-enable</key>
+				<data>AQAAAA==</data>
+				<key>framebuffer-con1-type</key>
+				<data>AAgAAA==</data>
+				<key>framebuffer-con1-enable</key>
+				<data>AQAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
